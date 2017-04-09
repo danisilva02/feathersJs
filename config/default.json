@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/firstProject",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "Vvq0UfBCLh3JQ4J5SqBfq/TDcgPUa/zNiDzkRBBinubE7T9gNaFTZAVpiDYLmYpnxSWCxREAnRD8AIe5ZMX4UQ=="
+    },
+    "local": {}
+  }
+}
